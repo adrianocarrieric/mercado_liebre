@@ -381,11 +381,6 @@ input[type="submit"]:hover {
 
 @media (min-width: 769px) {
 
-    header div.logo,
-    header .form {
-        width: 33%;
-    }
-
     main section div.products article {
         width: 22%;
     }
